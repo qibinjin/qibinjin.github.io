@@ -5,7 +5,7 @@ cover: assets/images/radhakrishna.jpg
 logo: 
 favicon: 
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "http://github.com/qibinjin" # the base hostname & protocol for your site
+url: "https://qibinjin.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
