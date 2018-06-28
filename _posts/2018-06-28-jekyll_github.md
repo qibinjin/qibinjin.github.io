@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用jekyll配合Github部署自己的个人博客
-date: 2017-06-28 21:21:00
+date: 2018-06-28 21:21:00
 tags: code
 author: Kim
 ---
