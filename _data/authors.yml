@@ -1,0 +1,24 @@
+hanuman:
+  username: hanuman
+  name: HANUMAN
+  location: Ayodhya
+  url_full: https://hanumanchalisa.net
+  url: hanumanchalisa.net
+  bio: Jai Shri Ram!
+  assets: assets/images/hanuman.png
+krishna:
+  username: krishna
+  name: KRISHNA
+  location: Vrindavan
+  url_full: https://shriradhakrishna.com
+  url: shriradhakrishna.com
+  bio: Radhe! Radhe!
+  assets: assets/images/favicon.png
+Kim:
+  username: Kim
+  name: Kim
+  location: Beijing
+  url_full: http://github.com/qibinjin
+  url: http://github.com/qibinjin
+  bio: 学习使我快乐
+  assets: assets/images/hanuman.png

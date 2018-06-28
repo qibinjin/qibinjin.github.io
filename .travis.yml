@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+- 2.4.2
+install:
+- bundle install
+script: bundle exec rake site:deploy --quiet
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: 9m5_0hXCdWosgYGcygYn2w
+sudo: false
+exclude:
+- vendor
+branches:
+  only:
+  - master

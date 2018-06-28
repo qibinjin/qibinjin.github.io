@@ -1,1 +1,57 @@
-theme: jekyll-theme-dinky
+# Site settings
+title: Kim's个人博客
+description: 码农的技术博客与个人分享平台.
+cover: assets/images/radhakrishna.jpg
+logo: 
+favicon: 
+baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
+url: "http://github.com/qibinjin" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+# Social
+
+kaggle: https://www.kaggle.com/qibin1216
+github:  http://github.com/qibinjin
+
+#Additional Pages
+about: about
+contact: contact
+privacy-policy: privacy-policy
+
+
+permalink: /:title
+
+
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: 747617734@qq.com #github username
+repo: qibin.github.io #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://qibinjin.github.io
+source_url:  https://github.com/qibinjin/qibinjin.github.io #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
