@@ -11,7 +11,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 # Social
 
 kaggle: https://www.kaggle.com/qibin1216
-github:  http://github.com/qibinjin
+github:  qibinjin
 
 #Additional Pages
 about: about
@@ -41,8 +41,8 @@ lsi: False
 username: 747617734@qq.com #github username
 repo: qibin.github.io #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../qibinjin.github.io/ #source directory
+destination: ../qibinjin.github.io-pages/ #destination directory
 production_url:  https://qibinjin.github.io
 source_url:  https://github.com/qibinjin/qibinjin.github.io #source repository url
 
