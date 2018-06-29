@@ -1,3 +1,8 @@
+
+## 下面是模板自带的说明文件
+1.修复了模板readmore 点击后变成与背景色相同的问题。并添加了hover变色
+
+
 # HANUMAN Jekyll Theme
 
 [![Build Status](https://travis-ci.org/samanyougarg/hanuman.svg?branch=master)](https://travis-ci.org/samanyougarg/hanuman)
