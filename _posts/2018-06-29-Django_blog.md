@@ -6,7 +6,7 @@ date: 2018-06-29 21:21:00
 tags: code
 author: Kim
 ---
-<p>在这里介绍下我那个比较简陋的Django博客吧，虽然麻雀很小但是五脏还是很全的，前端的部分参考了实验楼的'Django建立简易博客'课程，基本的功能实现了数据库存储文章，评论，用户注册，登陆，评论。。有很多地方可能处理的不好，所以大神请绕道。。下面是首页效果图</p>
+<p>在这里介绍下我那个比较简陋的Django博客吧<a href="http://github.com/qibinjin/Django_blog_0.1" target="_blank">附上Github地址</a>，虽然麻雀很小但是五脏还是很全的，前端的部分参考了实验楼的'Django建立简易博客'课程，基本的功能实现了数据库存储文章，评论，用户注册，登陆，评论。。有很多地方可能处理的不好，所以大神请绕道。。下面是首页效果图</p>
 <amp-img width="600" height="252"  src="assets/images/blog.png"></amp-img>
 
 <p>环境是ubuntu配合Django1.8.7.首先要清楚的是Django的目录结构以及各个文件的作用,创建Django的项目我建议使用pycharm在linux和windows下都可以使用，简单方便。下图就是最简单的Django目录结构，其中urls.py是用来管理访问路径与视图函数的绑定的，settings可以设置各种参数，manage.py类似与一个总的管理文件,我们接下来新建app和建立model等都要用到manage.py。</p>
