@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: assets/images/tianchi.jpg
-title: (原)通过Django用mysql搭建个人博客(一)
+title: (原)用Django配合mysql搭建个人博客(一)
 date: 2018-06-29 21:21:00
 tags: code
 author: Kim
