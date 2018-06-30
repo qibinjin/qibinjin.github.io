@@ -202,4 +202,4 @@ python manage.py migrate
 ```
 
 <p></p>
-<a href="assets/images/tianchi(source).jpg">封面图片的高清大图</a>
+<a href="assets/images/tianchi(source).jpg" target="_blank">封面图片的高清大图</a>
