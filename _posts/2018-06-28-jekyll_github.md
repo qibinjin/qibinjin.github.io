@@ -3,7 +3,7 @@ layout: post
 cover: assets/images/tree.jpg
 title: 用jekyll配合Github部署自己的个人博客
 date: 2018-06-28 21:21:00
-tags: code
+tags: jekyll
 author: Kim
 ---
 <p>最近在自己弄Django的东西，发现通过Django可以轻松地实现很多功能。表单验证，用户管理，后台管理等等都有现成的中间件。</p>
